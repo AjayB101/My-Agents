@@ -1,0 +1,8 @@
+
+streamlit
+requests
+beautifulsoup4
+langchain-core
+langchain-groq
+python-dotenv
+urllib3
